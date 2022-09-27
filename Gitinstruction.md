@@ -24,3 +24,6 @@
 ## Ссылки
 
 * < HTTPS > (работа по лекции контроля версии) https://github.com/KerimovRashad/Test.git 
+
+## Цитаты 
+
